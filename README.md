@@ -19,18 +19,6 @@ In this project, I observed the impact of a virtual private network (VPN) on IP 
 
 - Windows 10 (21H2)
 
-<h2>High-Level Steps</h2>
-
--	Create a Windows 10 virtual machine in Azure
--	Remote Desktop into the virtual machine
--	Use whatismyipaddress.com to find the IP address and location for the VM
--	Download the free version of ProtonVPN (create an account if there is no preexisting account)
--	In ProtonVPN, connect to a server in another country
--	Use whatismyipaddress.com to find the new IP address and location for the VM
--	Browse a webpage to see if there are any changes to the URL or language
--	Delete Resource Groups in Azure
-
-
 # Lab Tutorial: Setting Up VPN in an Azure Virtual Machine
 
 ## Objective
